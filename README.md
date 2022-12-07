@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/Osipof/osipof/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Osipof/Osipof/blob/output/github-contribution-grid-snake.svg)
