@@ -3,6 +3,14 @@
 
 <img  width="38%" high src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Osipof&langs_count=8&theme=material-palenight&layout=compact"> <img  width="58%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Osipof&show_icons=true&count_private=true&theme=nord">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osipof/Osipof/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osipof/Osipof/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Osipof/Osipof/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
 ### Socials
 
   <div id="badges">
